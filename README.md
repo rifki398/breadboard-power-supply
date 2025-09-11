@@ -2,12 +2,12 @@
 <table>
   <tr>
     <td align="center">
-      <img src="picture/pcb.png" alt="PCB Design" height="270"/>
+      <img src="picture/Breadboard Power Supply.png" alt="PCB Design" height="270"/>
       <br/>3D View
     </td>
     <td align="center">
-      <img src="picture/schematic.png" alt="Schematic" height="270"/>
-      <br/>Board View
+      <img src="picture/pcb.png" alt="Schematic" height="270"/>
+      <br/>PCB View
     </td>
   </tr>
 </table>
@@ -17,6 +17,11 @@ Breadboard Power Supply with Voltage Regulator
 This project is a simple PCB design using KiCad to provide regulated 5V and 3.3V outputs from an external DC power source (9-12V). The board uses a LM7805 linear regulator to generate 5V and a LD1117V regulator to generate 3.3V. The regulated outputs are available through pin headers and screw terminals, making the board suitable as a compact power module for prototyping on breadboards or external circuits.
 
 ## Bill of Materials (BOM)
+<p align="center">
+  <img src="picture/schematic.png" alt="schematic" style="width:55%; height:auto;"/>
+</p> 
+
+
 | No. | Component                     | Quantity | Description / Value           | Package Type |
 |-----|-------------------------------|----------|-------------------------------|--------------|
 | 1   | LM7805                        | 1        | 5V Regulator                  | TO-220       |
