@@ -11,7 +11,7 @@
     </td>
   </tr>
 </table>
-Breadboard Power Supply with Voltage Regulator
+
 
 ## Description
 This project is a simple PCB design using KiCad to provide regulated 5V and 3.3V outputs from an external DC power source (9-12V). The board uses a LM7805 linear regulator to generate 5V and a LD1117V regulator to generate 3.3V. The regulated outputs are available through pin headers and screw terminals, making the board suitable as a compact power module for prototyping on breadboards or external circuits.
