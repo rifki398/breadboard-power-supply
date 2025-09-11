@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="picture/Breadboard Power Supply.png" alt="PCB Design" height="270"/>
+      <img src="picture/3dview.png" alt="PCB Design" height="270"/>
       <br/>3D View
     </td>
     <td align="center">
