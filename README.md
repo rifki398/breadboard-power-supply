@@ -18,7 +18,7 @@ This project is a simple PCB design using KiCad to provide regulated 5V and 3.3V
 
 ## Bill of Materials (BOM)
 <p align="center">
-  <img src="picture/schematic.png" alt="schematic" style="width:55%; height:auto;"/>
+  <img src="picture/schematic.png" alt="schematic" style="width:95%; height:auto;"/>
 </p> 
 
 
